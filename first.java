@@ -8,7 +8,10 @@ class First{
 		System.out.println("adding fourth line");
 		System.out.println("adding fifth line");
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 		System.out.println("adding seventh line");
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 		System.out.println("adding sixth line");
