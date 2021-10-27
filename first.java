@@ -7,7 +7,10 @@ class First{
 		System.out.println("adding third line");
 		System.out.println("adding fourth line");
 		System.out.println("adding fifth line");
+<<<<<<< Updated upstream
 		System.out.println("adding seventh line");
+=======
+>>>>>>> Stashed changes
 		System.out.println("adding sixth line");
 	}
 }
